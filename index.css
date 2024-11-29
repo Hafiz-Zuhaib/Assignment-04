@@ -1,0 +1,30 @@
+header,
+footer,
+.hero {
+    background-color: #403d39;
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+i:hover {
+    cursor: pointer;
+}
+
+.hero img {
+    border-radius: 50%;
+    height: 40px;
+    margin: 4px;
+    opacity: 50%;
+}
+
+.hero img:hover {
+    opacity: 100%;
+    transition: all 0.5s;
+}
+
+video {
+    border-radius: 16px;
+}
